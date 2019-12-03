@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository provides a blank PDF with CC0 LICENSE.
+This repository provides a blank PDF licensed under CC0.
 
 You can download the blank PDF [here](blank.pdf).
 
